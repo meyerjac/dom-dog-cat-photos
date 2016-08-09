@@ -1,0 +1,43 @@
+body {
+  width: 100%;
+  background-color: #ffffb3;
+}
+
+h1 {
+  text-align: center;
+  color: purple;
+}
+
+p {
+  text-align: center;
+  color: red;
+  font-family: monospace;
+}
+
+img {
+  width: 40%;
+  margin-left: 30%
+}
+
+ul {
+  text-align: center;
+  list-style-type: none;
+  font-family: monospace;
+  color: blue;
+}
+
+.row {
+  margin-bottom: 20%;
+}
+
+.show {
+  display: block;
+}
+
+.hide {
+  display: none;
+}
+
+.end {
+  display: none;
+}
